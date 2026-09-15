@@ -13,3 +13,5 @@ All three repositories are public and licensed under Apache-2.0.
 | [usabl](https://github.com/usabl-dev/usabl) | The engine: the command line tool, the browser overlay, the assistant stop hook, and the pull request check. |
 | [usabl-app](https://github.com/usabl-dev/usabl-app) | A small PatternFly app with accessibility barriers built in, and a walkthrough of usabl on it that takes about 20 minutes. |
 | [usabl-plans](https://github.com/usabl-dev/usabl-plans) | The implementation plans behind each release. |
+
+The barriers in usabl-app are deliberate. Do not use it as a PatternFly reference.
