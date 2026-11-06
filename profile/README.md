@@ -2,7 +2,7 @@
 
 usabl checks web UI changes for accessibility barriers during development, before they ship. The same engine runs from the command line, a browser overlay, an AI coding assistant, and a pull request check.
 
-It is a preview release, version 0.2.1, built for Red Hat Innovation Days 2026.
+usabl won the Red Hat Innovation Days 2026 Global AI Challenge, Challenge 4, Web Accessibility at Scale. It is a preview release; the current version is on the usabl README.
 
 ## The code
 
